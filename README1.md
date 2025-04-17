@@ -4,7 +4,7 @@ To get from zero to Hello, World in Rust we'll need to do a few things:
 1. install rust (using rustup)
 2. init a project (using cargo)
 3. add your code
-4. build, run, and test your code (using cargo)
+   4. build, run, and test your code (using cargo) 
 
 ## 1. rustup
 The most common way to install and keep your Rust version up to date is to use rustup: https://rustup.rs/
